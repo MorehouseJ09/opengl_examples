@@ -2,6 +2,7 @@
 
 alias gcc='/usr/local/gcc/usr/local/bin/gcc'
 alias g++='/usr/local/gcc/usr/local/bin/g++'
+alias add='git add'
 alias push='git push'
 alias commit='git commit'
 alias pull='git pull'
