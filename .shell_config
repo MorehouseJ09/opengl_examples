@@ -1,0 +1,5 @@
+# Add in special aliases in this file to automatically load in the latest version of gcc when using this directory. This is useful so that when compiling, we can use the latest and greatest compiler
+
+alias gcc='/usr/local/gcc/usr/local/bin/gcc'
+alias g++='/usr/local/gcc/usr/local/bin/g++'
+
